@@ -8,4 +8,4 @@ I work as a software developer to create and maintain applications using C# (Bla
 
 - 🚀 I'm currently working on **professional projects** using *C# and VB*!
 - 🔭 I’m currently working on **personal projects** using *GDScript (Godot) and C#*!
-- 💾 Other projects I've worked on used *C, C++, and Python*! 
+- 💾 Other projects I've worked on used *C, C++, PHP, and Python*! 
